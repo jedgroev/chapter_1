@@ -14,7 +14,7 @@ This repository hosts code, data and figure linked to "title of chapter".
 
 | directory | path | description |
 |-----------|------|-------------|
-| code      |      |             |
+| code      | 00_data_preparation.qmd     |             |
 |           |      |             |
 |           |      |             |
 
