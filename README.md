@@ -12,10 +12,10 @@ This repository hosts code, data and figure linked to "title of chapter".
 
 # Data and Code Description
 
-| directory | path | description |
-|-----------|------|-------------|
-| code      | 00_data_preparation.qmd     |             |
-|           |      |             |
-|           |      |             |
+| directory | path                    | description |
+|-----------|-------------------------|-------------|
+| code      | 00_data_preparation.qmd |             |
+|           |                         |             |
+|           |                         |             |
 
 # Usage

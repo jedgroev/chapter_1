@@ -2,3 +2,17 @@
 title: "00_data_preparation"
 format: html
 ---
+
+# packages
+
+```{r}
+library(config)
+```
+
+# load credentials
+
+```{r}
+db1 <- config::get('database1')
+user <- db1$uid
+pw <- db1$pwd
+```
