@@ -3,7 +3,7 @@ add_one <- function(x){
   return(y)
 }
 
-add_two <- function(x){
-  y <- x + 2
+add_four <- function(x){
+  y <- x + 4
   return(y)
 }
