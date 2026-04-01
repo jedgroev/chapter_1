@@ -1,12 +1,19 @@
 # chapter_1
+
 First Chapter of my thesis
 
-# Introduction 
+# Introduction
 
-This repository hosts code, data and figure linked to "title of chapter". 
+This repository hosts code, data and figure linked to "title of chapter".
 
 # Directory Structure
 
-# Data and Code Description 
+# Data and Code Description
+
+| directory  | path    |  description          |
+|------------|---------|-----------------------|
+| code    |     |     |
+|     |     |     |
+|     |     |     |
 
 # Usage
